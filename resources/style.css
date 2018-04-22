@@ -1,0 +1,8 @@
+.smile {
+  background-image: url("../resources/izumrud1.jpg");
+  background-size: cover;
+width: 800px;
+height: 300px;
+border: back solid 1px;
+}
+h1 {color: green;}
